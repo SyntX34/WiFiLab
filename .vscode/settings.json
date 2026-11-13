@@ -1,0 +1,31 @@
+{
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": true,
+  "editor.rulers": [120],
+  "editor.tabSize": 4,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "files.exclude": {
+    "**/.android-sdk": true,
+    "**/.android-user-home": true,
+    "**/.gradle": true,
+    "**/.gradle-user-home": true,
+    "**/.idea": true,
+    "**/.tooling": true,
+    "**/build": true
+  },
+  "search.exclude": {
+    "**/.android-sdk": true,
+    "**/.gradle": true,
+    "**/.gradle-user-home": true,
+    "**/.tooling": true,
+    "**/build": true
+  },
+  "gradle.nestedProjects": true,
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.import.gradle.enabled": true,
+  "kotlin.code.style": "official",
+  "xml.format.enabled": true
+}

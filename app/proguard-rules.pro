@@ -1,0 +1,4 @@
+-keepattributes *Annotation*, Signature, InnerClasses, EnclosingMethod
+-keep class com.syntx34.wifilab.data.local.** { *; }
+-keepclassmembers enum * { *; }
+-dontwarn org.jetbrains.annotations.**

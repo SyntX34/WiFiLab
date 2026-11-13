@@ -1,0 +1,40 @@
+# Gradle and build output
+.gradle/
+.gradle-user-home/
+**/build/
+captures/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Android and IDE state
+local.properties
+.idea/
+*.iml
+.navigation/
+.externalNativeBuild/
+.cxx/
+.android-sdk/
+.android-user-home/
+.tooling/
+
+# Local tooling and secrets
+keystore.properties
+*.jks
+*.keystore
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.hprof
+
+# Kotlin compiler state
+.kotlin/
